@@ -10,7 +10,7 @@ Associated data on <a href="https://www.synapse.org/" target="_blank" rel="noope
 
 <details open>
  <summary>
-  <a href="https://github.com/DanzerLab/snRNA_PDMouseModel_Age" title = "Github repository">Bopp et al 2025</a>
+ <a href="https://github.com/DanzerLab/snRNA_PDMouseModel_Age" title = "Github repository">Bopp et al 2025</a>
  </summary> 
  Single-nucleus RNA-Seq & bulk MassSpec of the CNS in a mouse model for PD and aging. 
 </details>
