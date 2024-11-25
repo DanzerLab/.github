@@ -5,7 +5,6 @@
 <details open>
 <summary><a href="https://github.com/DanzerLab/ALS_Brain_Multiome" title="Github repository" >Ruf et al 2025</a></summary>
 Single-nucleus ATAC-seq, RNA-Seq and FANS-Seq of the human motor cortex in ALS/ALS-FTD. Accompanying repository to the <a href="https://pubmed.ncbi.nlm.nih.gov/" title="Publication on PubMed">publication</a>. 
-Associated data on <a href="https://www.synapse.org/" target="_blank" rel="noopener noreferrer" title="Dataset on Synapse">Synapse</a> and <a href="https://ega-archive.org/" title="Dataset on EGA">EGA</a>). 
 </details> 
 
 <details open>
