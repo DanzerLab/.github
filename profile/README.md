@@ -2,7 +2,7 @@
 
 <details open>
  <summary>
-  #### Publication repositories:
+  <h4>Publication repositories:</h4>
  </summary>
  
 <details open>
