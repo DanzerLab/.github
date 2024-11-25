@@ -14,7 +14,7 @@ Single-nucleus ATAC-seq, RNA-Seq and FANS-Seq of the human motor cortex in ALS/A
  <summary>
  <a href="https://github.com/DanzerLab/snRNA_PDMouseModel_Age" title = "Github repository">Bopp et al 2025</a>
  </summary> 
- Single-nucleus RNA-Seq & bulk MassSpec of the CNS in a mouse model for PD and aging. 
+ Single-nucleus RNA-Seq & bulk MassSpec of the CNS in a mouse model for PD and aging. Accompanying repository to the <a href="https://pubmed.ncbi.nlm.nih.gov/" title="Publication on PubMed">publication</a>. 
 </details>
 
 <details>
