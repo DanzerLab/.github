@@ -1,6 +1,9 @@
 # Danzer Lab Github
 
-#### Publication repositories:
+<details open>
+ <summary>
+  #### Publication repositories:
+ </summary>
  
 <details open>
 <summary><a href="https://github.com/DanzerLab/ALS_Brain_Multiome" title="Github repository" >Ruf et al 2025</a></summary>
